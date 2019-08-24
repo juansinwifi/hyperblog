@@ -1,1 +1,3 @@
 I'm Sebastian and I'm going to learn GIT in platzi
+
+We have been studying to get better
