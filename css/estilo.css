@@ -18,11 +18,11 @@ body{
 }
 
 .cabecera {
-    background: grey;
+    background: #0f0fab;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
     color: white;
     margin: 0;
-    padding: 0.5em;
+    padding: 1em;
     font-weight: bold;
 }
 
