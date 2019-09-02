@@ -1,2 +1,2 @@
-# Hyperblog 💚
+# Hyperblog 🔥
 Repositorio para pruebas de GIT
