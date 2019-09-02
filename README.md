@@ -3,4 +3,4 @@
 
 El objetivo del repositorio es:
 - Conocer todos los comandos de Git.
-- Cononer un flujo de trabajo en Github.
+- Conocer un flujo de trabajo en Github.
